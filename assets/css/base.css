@@ -1,0 +1,20 @@
+:root{
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #333;
+    --sub-color: #9b908e;
+    --main-color: #766a69;
+    --gray-color: #e5e5e5;
+}
+
+*{
+    box-sizing: inherit;
+}
+
+html{
+    font-size: 62.5%;
+    /* line-height: 1.6rem; */
+    font-family: 'Exo 2', sans-serif;
+    box-sizing: border-box;
+}
+
